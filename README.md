@@ -49,7 +49,7 @@ optional arguments:
 
 You can also write your own script and just import the Seychelles class to do more complicated things than the main script allows for. The Seychelles class has the following methods:
 
-* __init__ - Creates a new Seychelles object
+* \_\_init\_\_ - Creates a new Seychelles object
 * seychelles - Performs the forward Seychelles flag transformation
 * inverse_seychelles - Performs the reverse transformation back to a regular flag
 * save - Saves the output image to a file
