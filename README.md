@@ -71,3 +71,7 @@ Finally, the output pixel is assigned the color from the corresponding input pix
 
 The inverse operation does the same thing, but in reverse. For example, the angle mapping is a square root function in the inverse opertion instead of a parabola.
 
+Two special properties were maintained for this program:
+
+* The middle of the regular flag on the Y-axis corresponds to the diagonal of the Seychelles style flag.
+* The system is invertible. That is, the inverse Seychelles of the Seychelles of an image should (in theory) get you the original image, as should the  Seychelles of the inverse Seychelles of an image. However, since the bottom corner is mapped to the entire left edge in the inverse operation, there will be some noise visible in the inverse operation output, since pixels are discrete.
