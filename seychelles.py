@@ -4,6 +4,8 @@ import argparse
 import math
 import os
 
+# By Akshay Chitale for r/vexillology on Reddit
+
 # For Python 3
 try:
 	xrange
