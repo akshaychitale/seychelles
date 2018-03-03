@@ -2,7 +2,7 @@
 
 A Python script to convert an image of a flag (or really any image) into one in the style of the flag of the Seychelles, or the other way around.
 
-Made for [/r/vexillology](https://www.reddit.com/r/vexillology/) on Reddit.
+Made by **Akshay Chitale** for [/r/vexillology](https://www.reddit.com/r/vexillology/) on Reddit.
 
 ## How to Use
 
@@ -71,10 +71,3 @@ Finally, the output pixel is assigned the color from the corresponding input pix
 
 The inverse operation does the same thing, but in reverse. For example, the angle mapping is a square root function in the inverse opertion instead of a parabola.
 
-## Author
-
-**Akshay Chitale**
-
-## Disclaimer
-
-I made this script for fun - use, modify, and redistribute it however you wish. However, note that I make no guarantee, claim, or promise of any sort as to the functionality of this code. Use part or all of it for serious projects at your own risk.
